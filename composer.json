@@ -1,5 +1,5 @@
 {
-  "name": "dbeurive/shuntingyard",
+  "name": "barnetik/shuntingyard",
   "description": "This is an implementation of the shunting yard algorithm.",
   "license": "MIT",
   "authors": [
@@ -8,7 +8,7 @@
       "email": "dbeurive.github@gmail.com"
     }
   ],
-  "keywords": ["shunting-yard", "rpn", "infix"],
+  "keywords": ["shunting-yard", "rpn", "infix", "postfix"],
   "autoload": {
     "psr-4": {
       "dbeurive\\Shuntingyard\\": "src"
